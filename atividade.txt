@@ -1,0 +1,6 @@
+Luana Aguiar
+
+1.Interface Gráfica: Adicionou as fotos das músicas e é possível trocar a foto com o scroll. Aparece o lugar "Titulo da Musica" e "Autor da Musica". Aparece a barra de progresso da música, o botão com "pause" e as setas para trocar de música, estão clicáveis mas sem função.
+
+2.Playlist: Muda o índice da música para saber qual está tocando.
+
