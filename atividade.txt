@@ -1,6 +1,12 @@
-Luana Aguiar
+Luana Aguiar - 2ºMTec
 
 1.Interface Gráfica: Adicionou as fotos das músicas e é possível trocar a foto com o scroll. Aparece o lugar "Titulo da Musica" e "Autor da Musica". Aparece a barra de progresso da música, o botão com "pause" e as setas para trocar de música, estão clicáveis mas sem função.
 
 2.Playlist: Muda o índice da música para saber qual está tocando.
+
+3.Playlist: Adiciona o nome da música e do artista em todas as músicas.
+
+4.Play-Pause: Adiciona o áudio das músicas, o botão de play e pause funciona, e os botões de skip também funcionam.
+
+5.Music Position: Se arrastarmos o slider para um ponto específico da música, ela começa a tocar desse ponto. Adicionou a duração correta das músicas. 
 
